@@ -1,0 +1,30 @@
+.form {
+    width: 500px;
+    background-color: aqua;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+form>ul {
+    list-style: none;
+}
+
+form ul>li>input {
+    font-size: 26px;
+}
+
+form>ul>li>label {
+    font-size: 26px;
+}
+
+button {
+    background-color: green;
+    border-radius: 20px 0px;
+    text-align: center;
+    color: #3700ff;
+    font-size: 20px;
+    width: 300px;
+    text-align: center;
+
+}
